@@ -1,1 +1,1 @@
-
+in this folder you wiil put all the images you want the program to use and recognize the faces in.
