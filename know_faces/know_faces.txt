@@ -1,1 +1,14 @@
+*in this folder you put the known faces inside of more folders with the name of the folder as the name  of the person in the folder*
 
+known_faces/
+   ├── person1 name/
+   │     ├── img1.jpg
+   │     ├── img2.png
+   │
+   ├── person2 name/
+   │     ├── photo1.jpg
+   │     ├── photo2.jpg
+   │
+   ├── person2 name/
+         ├── img1.jpg
+         ├── img2.png
