@@ -1,4 +1,5 @@
-*in this folder you put the known faces inside of more folders with the name of the folder as the name  of the person in the folder*
+in this folder you put the known faces inside of more folders with the name of the folder as the name of the person in the folder
+It should look like this:
 
 known_faces/
    ├── person1 name/
